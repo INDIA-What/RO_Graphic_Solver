@@ -147,15 +147,15 @@ The solver will find the optimal solution at the vertex where Z is maximized.
 
 ## Contributors
 
-This project was developed as a collaborative school project for the Recherche Opérationnelle course.
+This project was developed as a collaborative school project for the Recherche Opérationnelle course by:
 
-## License
-
-[Add your preferred license here, e.g., MIT, GPL, etc.]
+Amine El-baydaouy
+Anouar Habib Allah
 
 ## Notes
 
 - All input accepts both `.` and `,` as decimal separators for convenience
 - The program includes default non-negativity constraints (X ≥ 0, Y ≥ 0)
 - Coefficients of 1 or -1 are displayed without showing the coefficient in equations
+
 # RO_Graphic_Solver
