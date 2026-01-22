@@ -158,5 +158,3 @@ This project was developed as a collaborative school project for the Recherche O
 - All input accepts both `.` and `,` as decimal separators for convenience
 - The program includes default non-negativity constraints (X ≥ 0, Y ≥ 0)
 - Coefficients of 1 or -1 are displayed without showing the coefficient in equations
-
-# RO_Graphic_Solver
