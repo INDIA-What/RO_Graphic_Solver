@@ -149,8 +149,8 @@ The solver will find the optimal solution at the vertex where Z is maximized.
 
 This project was developed as a collaborative school project for the Recherche Opérationnelle course by:
 
-Amine El-baydaouy
-Anouar Habib Allah
+[Amine El-baydaouy](https://github.com/amineamine762)
+[Anouar Habib Allah](https://github.com/Otter-1)
 
 ## Notes
 

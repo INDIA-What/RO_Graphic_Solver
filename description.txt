@@ -1,9 +1,0 @@
-Dans ce projet nous avons utilisé les connaissances acquises en recherche operationnelle, en programation orientée objet et en python, pour programmer un outil qui resout les problemes lineaires avec la methode graphique.
-
-Le projet necessite l'installation de matplotlib (en utilisant la commande "pip install matplotlib")
-
-Projet réalisé par:
-- Amine El-baydaouy
-- Anouar Habib Allah
-- Mohamed Saad El Messoussi
-- Houssam Ninia
